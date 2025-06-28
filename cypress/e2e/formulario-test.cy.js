@@ -1,4 +1,4 @@
-describe('Testando formulario na demoqa', () => {
+describe('testando formulario na demoqa', () => {
     const seletores = {
       elementos: '#app > div > div > div.home-body > div > div:nth-child(1) > div > div.card-up',
       textBox: '#item-0',

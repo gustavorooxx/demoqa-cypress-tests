@@ -13,7 +13,7 @@ describe('testando radio button na demoqa', () => {
         cy.visit('https://demoqa.com');
         // Clica no cartão "Elements" na página inicial
         cy.get(seletores.elementos).click();
-        // Clica no link "Text Box" na sidebar da página de elementos
+        // Clica no link "Radio Button" na sidebar da página de elementos
         cy.get(seletores.radioButton).click();
         // Opcional, mas boa prática: verificar se a página correta foi carregada
         cy.url().should('include', '/radio-button');
