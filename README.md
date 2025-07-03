@@ -2,16 +2,6 @@
 
 Este repositório contém testes automatizados end-to-end desenvolvidos com Cypress para a plataforma [DemoQA](https://demoqa.com/). O objetivo é demonstrar a automação de diferentes funcionalidades do site, garantindo a qualidade e o correto funcionamento das aplicações.
 
-## Sumário
-
-1.  [Pré-requisitos](https://www.google.com/search?q=%23pr%C3%A9-requisitos)
-2.  [Instalação](https://www.google.com/search?q=%23instala%C3%A7%C3%A3o)
-3.  [Estrutura do Projeto](https://www.google.com/search?q=%23estrutura-do-projeto)
-4.  [Executando os Testes](https://www.google.com/search?q=%23executando-os-testes)
-5.  [Exemplos de Testes](https://www.google.com/search?q=%23exemplos-de-testes)
-6.  [Melhores Práticas (Recomendado)](https://www.google.com/search?q=%23melhores-pr%C3%A1ticas-recomendado)
-7.  [Recursos Adicionais](https://www.google.com/search?q=%23recursos-adicionais)
-
 ## Pré-requisitos
 
 Para executar os testes neste repositório, você precisará ter o seguinte software instalado em sua máquina:
